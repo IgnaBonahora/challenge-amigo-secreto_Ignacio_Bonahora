@@ -2,7 +2,6 @@
 
 <h2>Descripcion del proyecto</h2>
 
-<<<<<<< HEAD
 En este repositorio encontraras el desarrollo del Challenge de Amigo Secreto, correspondiente al challenge del curso de Principiante en Programacion de 
  Alura en desarrollo del programa ONE ( Oracle Next Educaction)
 
@@ -21,7 +20,6 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 
 - Con el boton SORTEAR AMIGO sortear su amigo secreto de la lista que usted cargo
 
-=======
 <h2> Estado del Proyecto</h2>
 
 🏁`Proyecto Concluido` 🏁
@@ -34,7 +32,6 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 
 - Con el boton SORTEAR AMIGO sortear su amigo secreto de la lista que usted cargo
 
->>>>>>> 5370f09426a54a6c19c7e0c3c6a531d93fb42a85
 - No esta permitida el input de nombres repetidos y/ en blanco
 
 <h2>Acceso al proyecto</h2>
@@ -52,8 +49,4 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 - Diseño pagina: CSS
 
 <h2>Autores</h2>
-<<<<<<< HEAD
 - Autor: Ignacio Boanhora 
-=======
-- Autor: Ignacio Boanhora 
->>>>>>> 5370f09426a54a6c19c7e0c3c6a531d93fb42a85

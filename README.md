@@ -2,11 +2,11 @@
 
 <h2>Descripcion del proyecto</h2>
 
-<h2>Estado del Proyecto</h2>
+<h2> Estado del Proyecto</h2>
 
-`Proyecto Concluido` 
+🏁`Proyecto Concluido` 🏁
 
-<h2>Funcionaklidad</h2>
+<h2> 🔨 Funcionaklidad 🔨 </h2>
  
 - A traves de la barra de input blanca podra escribir el nombre de sus amigos para descubrir cual es su amigo secreto
 
@@ -18,9 +18,9 @@
 
 <h2>Acceso al proyecto</h2>
 
-- Repositorio: 
+- 📘 Repositorio: 
 
-- Link de utilizacion del programa: 
+- 🏃 Link de utilizacion del programa: 
 
 <h2>Tecnologias</h2>
 

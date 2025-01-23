@@ -18,9 +18,9 @@
 
 <h2>Acceso al proyecto</h2>
 
-- 📘 Repositorio: 
+- 📘 [Repositorio](https://github.com/IgnaBonahora/challenge-amigo-secreto_Ignacio_Bonahora)
 
-- 🏃 Link de utilizacion del programa: 
+- 🏃 [Link de utilizacion del programa]()
 
 <h2>Tecnologias</h2>
 

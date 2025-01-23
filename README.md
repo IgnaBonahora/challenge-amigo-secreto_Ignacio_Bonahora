@@ -1,2 +1,1 @@
-##**Challenge Amigo Secreto **
-<em> # Challenge Amigo Secreto </em>
+<h1 align="center"> Challenge Amigo Secreto </h1>

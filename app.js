@@ -1,6 +1,7 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación.
 //  Aquí deberás desarrollar la lógica para resolver el problema.
 let amigos = [];
+let numeroRamdon = 0 ; 
 
 /*function asignarTexto( etiqueta , mensaje) {
     let elementoHTML = document.querySelector(etiqueta);
@@ -11,7 +12,6 @@ function agregarAmigo(){
     let name = document.getElementById("amigo").value
     if(! (amigos.includes(name))){
         amigos.push(name);
-        console.log(name);
         vaciarCampo(); 
     }else{
         if( name == ""){
@@ -37,4 +37,20 @@ function  mostrarLista() {
         li.textContent = amigos[index] ; 
         lista.appendChild(li); 
     }
+}
+
+function sortearAmigo(){
+    if ( amigos.length != 0 ){
+        numeroRamdon = generarNumeroRamdon() ; 
+        let amigoSecreto = amigos[numeroRamdon] ; 
+        let eiqueta = document.getElementById("resultado");
+        eiqueta.innerHTML = `El amigo secreto sorteado es:  ${amigoSecreto}` ;
+    }else{
+        let etiqueta = document.getElementById("resultado");
+        etiqueta.innerHTML = "" ;
+    }
+}
+
+function generarNumeroRamdon(cantAmigo = (amigos.length)) {
+    return Math.floor(Math.random()* cantAmigo ) ;
 }

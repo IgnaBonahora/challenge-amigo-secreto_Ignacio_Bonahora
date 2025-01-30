@@ -12,7 +12,7 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 
 🏁`Proyecto Concluido` 🏁
 
-<h2> 🔨 Funcionaklidad 🔨 </h2>
+<h2> 🔨 Funcionalidad 🔨 </h2>
  
 - A traves de la barra de input blanca podra escribir el nombre de sus amigos para descubrir cual es su amigo secreto
 
@@ -20,19 +20,6 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 
 - Con el boton SORTEAR AMIGO sortear su amigo secreto de la lista que usted cargo
 
-<h2> Estado del Proyecto</h2>
-
-🏁`Proyecto Concluido` 🏁
-
-<h2> 🔨 Funcionaklidad 🔨 </h2>
- 
-- A traves de la barra de input blanca podra escribir el nombre de sus amigos para descubrir cual es su amigo secreto
-
-- Con el boton AÑADIR los podra añadir a una lista de cual saldra su amigo secreto sorteado
-
-- Con el boton SORTEAR AMIGO sortear su amigo secreto de la lista que usted cargo
-
-- No esta permitida el input de nombres repetidos y/ en blanco
 
 <h2>Acceso al proyecto</h2>
 

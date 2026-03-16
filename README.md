@@ -10,7 +10,7 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
  
 <h2> Estado del Proyecto</h2>
 
-🏁`Proyecto Concluido` 🏁
+🏁`Proyecto Concluido` 🏁 
 
 <h2> 🔨 Funcionalidad 🔨 </h2>
  
@@ -36,4 +36,4 @@ En el mismo encontras informacion de como se resolvio la parte logica del proyec
 - Diseño pagina: CSS
 
 <h2>Autores</h2>
-- Autor: Ignacio Boanhora 
+- Autor: Ignacio Boanhora 💻🇦🇷
